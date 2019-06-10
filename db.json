@@ -1,33 +1,17 @@
 {
-
     "$id": "1",
-
     "user": {
-
         "$id": "2",
-
         "uuid": "ab9876543210",
-
         "email": "royabhishek@gmail.com",
-
         "name": "Abhishek",
-
         "mobile": 9876543210,
-
         "password": "BE2DD7FB7A6D0F8B",
-
         "role": "engineer",
-
         "status": "active",
-
         "last_accessed": "2019-06-07T10:38:02",
-
         "_etk_status": "loggedout",
-
         "_etk": ""
-
     },
-
     "status": 200
-
 }
